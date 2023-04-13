@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Main file """
+""" Main file for task 1 """
 
 Cache = __import__('exercise').Cache
 
@@ -11,7 +11,7 @@ print(cache.get(cache.store.__qualname__))
 cache.store(b"second")
 cache.store(b"third")
 print(cache.get(cache.store.__qualname__))#!/usr/bin/env python3
-""" Main file """
+""" Main file for task 1"""
 
 Cache = __import__('exercise').Cache
 
@@ -23,7 +23,7 @@ print(cache.get(cache.store.__qualname__))
 cache.store(b"second")
 cache.store(b"third")
 print(cache.get(cache.store.__qualname__))#!/usr/bin/env python3
-""" Main file """
+""" Main file for task 1"""
 
 Cache = __import__('exercise').Cache
 
@@ -35,7 +35,7 @@ print(cache.get(cache.store.__qualname__))
 cache.store(b"second")
 cache.store(b"third")
 print(cache.get(cache.store.__qualname__))#!/usr/bin/env python3
-""" Main file """
+""" Main file for task 1 """
 
 Cache = __import__('exercise').Cache
 
@@ -47,7 +47,7 @@ print(cache.get(cache.store.__qualname__))
 cache.store(b"second")
 cache.store(b"third")
 print(cache.get(cache.store.__qualname__))#!/usr/bin/env python3
-""" Main file """
+""" Main file for task 1"""
 
 Cache = __import__('exercise').Cache
 
@@ -59,7 +59,7 @@ print(cache.get(cache.store.__qualname__))
 cache.store(b"second")
 cache.store(b"third")
 print(cache.get(cache.store.__qualname__))#!/usr/bin/env python3
-""" Main file """
+""" Main file for task 1"""
 
 Cache = __import__('exercise').Cache
 
@@ -71,7 +71,7 @@ print(cache.get(cache.store.__qualname__))
 cache.store(b"second")
 cache.store(b"third")
 print(cache.get(cache.store.__qualname__))#!/usr/bin/env python3
-""" Main file """
+""" Main file for task 1"""
 
 Cache = __import__('exercise').Cache
 
@@ -83,7 +83,7 @@ print(cache.get(cache.store.__qualname__))
 cache.store(b"second")
 cache.store(b"third")
 print(cache.get(cache.store.__qualname__))#!/usr/bin/env python3
-""" Main file """
+""" Main file for task 1 """
 
 Cache = __import__('exercise').Cache
 
